@@ -1,4 +1,4 @@
-[README (3).md](https://github.com/user-attachments/files/27265717/README.3.md)
+[README (4).md](https://github.com/user-attachments/files/27265766/README.4.md)
 # Olá, eu sou o Matheus Costa 👋
 
 Desenvolvedor **Full Stack** em constante evolução — apaixonado por transformar ideias em produtos reais, do banco de dados à interface.
@@ -44,9 +44,17 @@ Desenvolvedor **Full Stack** em constante evolução — apaixonado por transfor
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusC0625&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusC0625&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Top Langs" />
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=MatheusC0625&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" 
+    alt="GitHub Stats"
+  />
+
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusC0625&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" 
+    alt="Top Languages"
+  />
 </p>
 
 ---
