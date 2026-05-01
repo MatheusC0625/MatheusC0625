@@ -1,5 +1,4 @@
-[README (2).md](https://github.com/user-attachments/files/27265693/README.2.md)
-
+[README (3).md](https://github.com/user-attachments/files/27265717/README.3.md)
 # Olá, eu sou o Matheus Costa 👋
 
 Desenvolvedor **Full Stack** em constante evolução — apaixonado por transformar ideias em produtos reais, do banco de dados à interface.
@@ -44,13 +43,11 @@ Desenvolvedor **Full Stack** em constante evolução — apaixonado por transfor
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MatheusC0625&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusC0625&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Top Langs" />
+</p>
 
 ---
 
@@ -70,7 +67,7 @@ Se quiser ver o que estou desenvolvendo, fique de olho nos repositórios fixados
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=blue&style=flat-square&label=Visitantes" alt="visitors" />
+  <img src="https://komarev.com/ghpvc/?username=MatheusC0625&color=blue&style=flat-square&label=Visitantes" alt="visitors" />
 </div>
 
 > *"Primeiro faça funcionar, depois faça funcionar bem."*
