@@ -41,24 +41,6 @@ Desenvolvedor **Full Stack** em constante evolução — apaixonado por transfor
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=MatheusC0625&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" 
-    alt="GitHub Stats"
-  />
-
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusC0625&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" 
-    alt="Top Languages"
-  />
-</p>
-
----
-
 ## 📌 Projetos em destaque
 
 > 🔧 Em construção — novos projetos chegando em breve!
