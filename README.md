@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou o Matheus 👋</h1>
+<h1 align="center">Oi, eu sou o Matheus</h1>
 
 <p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas (FIAP) e desenvolvedor Full Stack em formação.<br/>
