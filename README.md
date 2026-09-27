@@ -50,10 +50,6 @@ Uso React no front e transito entre Node.js, Python e Java no back, dependendo d
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusC0625&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Linguagens mais usadas"/>
-</p>
-
 ---
 
 <p align="center">
