@@ -23,8 +23,9 @@ Uso React no front e transito entre Node.js, Python e Java no back, dependendo d
 | Projeto | O que é |
 |---|---|
 | [**TaskForge**](https://github.com/MatheusC0625/TaskForge) | Gerenciador de tarefas full stack com Kanban, dashboard, checklists, filtros, autenticação e testes automatizados ([demo](https://task-forge-two-murex.vercel.app)) |
-| [**GestaoFinanceiraJava**](https://github.com/MatheusC0625/GestaoFinanceiraJava) | Sistema de gestão financeira em Java |
-| [**PortfolioProfsissional**](https://github.com/MatheusC0625/PortfolioProfsissional) | Meu portfólio pessoal |
+| [**LucroClaro**](https://github.com/MatheusC0625/LucroClaro.git) | Site para analisar números de um comércio MEI |
+| [**PortfolioProfsissional**](https://github.com/MatheusC0625/PortfolioProfsissional) | Meu portfólio profissional
+|
 
 ### Tecnologias que uso
 
